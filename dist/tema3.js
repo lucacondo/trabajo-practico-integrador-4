@@ -1,2 +1,23 @@
+let letra = "A";
+console.log(letra);
+let numero = 2;
+console.log(numero);
+let casado = true;
+console.log(casado);
+let materias = ["TLP", "Base de datos", "Big Data"];
+console.log(materias);
+let notas = [1, 2, 3];
+console.log(notas);
+let doble;
+doble = "primero";
+console.log(doble);
+doble = 2;
+console.log(doble);
+let dato = 10;
+console.log(dato);
+dato = "Hola";
+console.log(dato);
+dato = true;
+console.log(dato);
 export {};
 //# sourceMappingURL=tema3.js.map
